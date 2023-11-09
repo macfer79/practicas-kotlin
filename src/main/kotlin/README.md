@@ -4,3 +4,4 @@
 Indice de prácticas:
 
 * PR #0 - TEXTO VERTICAL
+* PR #1 - SUMA DE RANGO
