@@ -3,4 +3,4 @@
 
 Indice de prácticas:
 
-* PR #0 -  
+* PR #0 - TEXTO VERTICAL
