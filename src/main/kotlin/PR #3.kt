@@ -6,7 +6,7 @@
 *  - $75+ los pedidos tiene envío gratuito.
 *  - pedidos inferiores a $75 tienen unos gastos de envío del 10% del importe total del pedido.
 *
-*  Para pedidos internacionales, hay una tasa de envío del 15%, con un máximode $50. Esto significa que la
+*  Para pedidos internacionales, hay una tasa de envío del 15%, con un máximo de $50. Esto significa que la
 *  la tarifa máxima de envío para un pedido internacional es de $50.
 *
 *  Tienes la función shippingCost(), que toma el importe del pedido y un booleano que indica si el pedido
